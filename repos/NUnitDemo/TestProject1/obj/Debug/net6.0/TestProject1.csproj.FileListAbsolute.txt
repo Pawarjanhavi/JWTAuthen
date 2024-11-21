@@ -1,5 +1,0 @@
-C:\Users\ROG\source\repos\NUnitDemo\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
-C:\Users\ROG\source\repos\NUnitDemo\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ROG\source\repos\NUnitDemo\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
-C:\Users\ROG\source\repos\NUnitDemo\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
-C:\Users\ROG\source\repos\NUnitDemo\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache
