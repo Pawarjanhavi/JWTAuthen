@@ -1,4 +1,0 @@
-C:\Users\ROG\source\repos\new\new\obj\Debug\net6.0\new.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ROG\source\repos\new\new\obj\Debug\net6.0\new.AssemblyInfoInputs.cache
-C:\Users\ROG\source\repos\new\new\obj\Debug\net6.0\new.AssemblyInfo.cs
-C:\Users\ROG\source\repos\new\new\obj\Debug\net6.0\new.csproj.CoreCompileInputs.cache
