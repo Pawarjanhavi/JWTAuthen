@@ -1,5 +1,0 @@
-C:\Users\ROG\source\repos\CourierManagmentApp\DOA\obj\Debug\net6.0\DOA.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ROG\source\repos\CourierManagmentApp\DOA\obj\Debug\net6.0\DOA.AssemblyInfoInputs.cache
-C:\Users\ROG\source\repos\CourierManagmentApp\DOA\obj\Debug\net6.0\DOA.AssemblyInfo.cs
-C:\Users\ROG\source\repos\CourierManagmentApp\DOA\obj\Debug\net6.0\DOA.csproj.CoreCompileInputs.cache
-C:\Users\ROG\source\repos\CourierManagmentApp\DOA\obj\Debug\net6.0\DOA.csproj.AssemblyReference.cache
