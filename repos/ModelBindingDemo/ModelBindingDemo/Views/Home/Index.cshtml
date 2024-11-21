@@ -1,0 +1,29 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Submit Your Data</h1>
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div>
+            @ViewBag.Message
+        </div>
+    }
+    <form method="post" asp-controller="Home" asp-action="SubmitForm">
+        <div>
+            <label asp-for="UserName">Enter UserName:</label>
+            <input asp-for="UserName" placeholder="Enter your name" />
+            <span asp-validation-for="UserName"></span>
+        </div>
+        <div>
+            <label asp-for="UserEmail">Enter UserEmail:</label>
+            <input asp-for="UserEmail" placeholder="Enter your Email" />
+            <span asp-validation-for="UserEmail"></span>
+        </div>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|c:\\users\\rog\\source\\repos\\studentdemo\\studentdemo\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|solutionrelative:studentdemo\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|c:\\users\\rog\\source\\repos\\studentdemo\\studentdemo\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|solutionrelative:studentdemo\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|c:\\users\\rog\\source\\repos\\studentdemo\\studentdemo\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|solutionrelative:studentdemo\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|c:\\users\\rog\\source\\repos\\studentdemo\\studentdemo\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|solutionrelative:studentdemo\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|c:\\users\\rog\\source\\repos\\studentdemo\\studentdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|solutionrelative:studentdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|c:\\users\\rog\\source\\repos\\studentdemo\\studentdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC30A4BC-1EDA-4D0F-93A6-863E74DC8D5D}|StudentDemo\\StudentDemo.csproj|solutionrelative:studentdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "StudentDemo\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Branch.cs",
+              "RelativeToolTip": "StudentDemo\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:14.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "StudentDemo\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Teacher.cs",
+              "RelativeToolTip": "StudentDemo\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:14.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "StudentDemo\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Subject.cs",
+              "RelativeToolTip": "StudentDemo\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:14.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "StudentDemo\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Address.cs",
+              "RelativeToolTip": "StudentDemo\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:14.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentDemo\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Course.cs",
+              "RelativeToolTip": "StudentDemo\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:14.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentDemo\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\StudentDemo\\StudentDemo\\Models\\Student.cs",
+              "RelativeToolTip": "StudentDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:11.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

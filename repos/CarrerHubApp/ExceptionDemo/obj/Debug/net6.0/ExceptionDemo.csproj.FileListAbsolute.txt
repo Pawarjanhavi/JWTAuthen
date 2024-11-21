@@ -1,0 +1,15 @@
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.AssemblyInfo.cs
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.deps.json
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.dll
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.pdb
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\bin\Debug\net6.0\Util.dll
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\bin\Debug\net6.0\Util.pdb
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\Exceptio.A66A4132.Up2Date
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.dll
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\refint\ExceptionDemo.dll
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.pdb
+C:\Users\ROG\source\repos\CarrerHubApp\ExceptionDemo\obj\Debug\net6.0\ref\ExceptionDemo.dll

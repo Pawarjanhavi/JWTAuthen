@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\source\\repos\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD113AA0-DEC8-4A28-AEC0-F0763C9014A0}|ECommerce\\ECommerce.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\ecommerce\\ecomapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD113AA0-DEC8-4A28-AEC0-F0763C9014A0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\ecomapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B532A985-18F2-40E1-B4CA-2415C4212728}|Util\\Util.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\util\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B532A985-18F2-40E1-B4CA-2415C4212728}|Util\\Util.csproj|solutionrelative:util\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B532A985-18F2-40E1-B4CA-2415C4212728}|Util\\Util.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B532A985-18F2-40E1-B4CA-2415C4212728}|Util\\Util.csproj|solutionrelative:util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\unit_testing\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|solutionrelative:unit_testing\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\unit_testing\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|solutionrelative:unit_testing\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\unit_testing\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|solutionrelative:unit_testing\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\unit_testing\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|solutionrelative:unit_testing\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\unit_testing\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2842D44-EE05-44F3-BE9A-1B7FB9AD8B68}|Unit_Testing\\Unit_Testing.csproj|solutionrelative:unit_testing\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B532A985-18F2-40E1-B4CA-2415C4212728}|Util\\Util.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B532A985-18F2-40E1-B4CA-2415C4212728}|Util\\Util.csproj|solutionrelative:util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F46B513-936B-496B-91DD-C680FFA55B80}|myexceptions\\myexceptions.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\myexceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46B513-936B-496B-91DD-C680FFA55B80}|myexceptions\\myexceptions.csproj|solutionrelative:myexceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F46B513-936B-496B-91DD-C680FFA55B80}|myexceptions\\myexceptions.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\myexceptions\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46B513-936B-496B-91DD-C680FFA55B80}|myexceptions\\myexceptions.csproj|solutionrelative:myexceptions\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F46B513-936B-496B-91DD-C680FFA55B80}|myexceptions\\myexceptions.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\myexceptions\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46B513-936B-496B-91DD-C680FFA55B80}|myexceptions\\myexceptions.csproj|solutionrelative:myexceptions\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF032F-C958-4ABE-8DE9-10EBC72B278A}|DAO\\DAO.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\dao\\orderprocessorrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF032F-C958-4ABE-8DE9-10EBC72B278A}|DAO\\DAO.csproj|solutionrelative:dao\\orderprocessorrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF032F-C958-4ABE-8DE9-10EBC72B278A}|DAO\\DAO.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\dao\\iorderprocessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF032F-C958-4ABE-8DE9-10EBC72B278A}|DAO\\DAO.csproj|solutionrelative:dao\\iorderprocessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249C24A-BC66-4AF3-ADA2-FD0CDA056690}|Entity\\Entity.csproj|c:\\users\\rog\\source\\repos\\ecommerce\\entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1249C24A-BC66-4AF3-ADA2-FD0CDA056690}|Entity\\Entity.csproj|solutionrelative:entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Util\\AppSettings.json",
+              "RelativeDocumentMoniker": "Util\\AppSettings.json",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Util\\AppSettings.json",
+              "RelativeToolTip": "Util\\AppSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T13:25:05.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EcomApp.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\ECommerce\\EcomApp.cs",
+              "RelativeDocumentMoniker": "ECommerce\\EcomApp.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\ECommerce\\EcomApp.cs",
+              "RelativeToolTip": "ECommerce\\EcomApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:23:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Util\\PropertyUtil.cs",
+              "RelativeDocumentMoniker": "Util\\PropertyUtil.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Util\\PropertyUtil.cs",
+              "RelativeToolTip": "Util\\PropertyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:22:11.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Util\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Util\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Util\\DBConnection.cs",
+              "RelativeToolTip": "Util\\DBConnection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:19:47.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\myexceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "myexceptions\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\myexceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "myexceptions\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:19:20.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\myexceptions\\OrderNotFoundException.cs",
+              "RelativeDocumentMoniker": "myexceptions\\OrderNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\myexceptions\\OrderNotFoundException.cs",
+              "RelativeToolTip": "myexceptions\\OrderNotFoundException.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:19:17.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\myexceptions\\CustomerNotFoundException.cs",
+              "RelativeDocumentMoniker": "myexceptions\\CustomerNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\myexceptions\\CustomerNotFoundException.cs",
+              "RelativeToolTip": "myexceptions\\CustomerNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:19:06.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderProcessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\DAO\\IOrderProcessorRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\IOrderProcessorRepository.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\DAO\\IOrderProcessorRepository.cs",
+              "RelativeToolTip": "DAO\\IOrderProcessorRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:17:15.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Entity\\Cart.cs",
+              "RelativeDocumentMoniker": "Entity\\Cart.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Entity\\Cart.cs",
+              "RelativeToolTip": "Entity\\Cart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:16:56.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderProcessorRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\DAO\\OrderProcessorRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "DAO\\OrderProcessorRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\DAO\\OrderProcessorRepositoryImpl.cs",
+              "RelativeToolTip": "DAO\\OrderProcessorRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:51:34.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\TestBase.cs",
+              "RelativeDocumentMoniker": "Unit_Testing\\TestBase.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\TestBase.cs",
+              "RelativeToolTip": "Unit_Testing\\TestBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:43:23.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\ProductTests.cs",
+              "RelativeDocumentMoniker": "Unit_Testing\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\ProductTests.cs",
+              "RelativeToolTip": "Unit_Testing\\ProductTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:40:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\CartTests.cs",
+              "RelativeDocumentMoniker": "Unit_Testing\\CartTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\CartTests.cs",
+              "RelativeToolTip": "Unit_Testing\\CartTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:38:59.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\OrderTests.cs",
+              "RelativeDocumentMoniker": "Unit_Testing\\OrderTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\OrderTests.cs",
+              "RelativeToolTip": "Unit_Testing\\OrderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:18:57.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionTests.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\ExceptionTests.cs",
+              "RelativeDocumentMoniker": "Unit_Testing\\ExceptionTests.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\ECommerce\\Unit_Testing\\ExceptionTests.cs",
+              "RelativeToolTip": "Unit_Testing\\ExceptionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:18:48.032Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

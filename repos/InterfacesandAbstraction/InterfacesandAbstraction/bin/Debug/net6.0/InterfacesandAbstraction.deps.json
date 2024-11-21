@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InterfacesandAbstraction/1.0.0": {
+        "dependencies": {
+          "EMSModel": "1.0.0",
+          "EMSModel.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "InterfacesandAbstraction.dll": {}
+        }
+      },
+      "EntityLib/1.0.0": {
+        "runtime": {
+          "EntityLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EMSModel.Reference/1.0.0.0": {
+        "runtime": {
+          "EMSModel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfacesandAbstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMSModel.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

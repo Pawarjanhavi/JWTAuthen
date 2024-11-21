@@ -1,0 +1,11 @@
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\bin\Debug\net6.0\TAsk1.deps.json
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\bin\Debug\net6.0\TAsk1.dll
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\bin\Debug\net6.0\TAsk1.pdb
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\obj\Debug\net6.0\TAsk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\obj\Debug\net6.0\TAsk1.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\obj\Debug\net6.0\TAsk1.AssemblyInfo.cs
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\obj\Debug\net6.0\TAsk1.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\obj\Debug\net6.0\TAsk1.dll
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\obj\Debug\net6.0\refint\TAsk1.dll
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\obj\Debug\net6.0\TAsk1.pdb
+C:\Users\ROG\source\repos\CourierManagmentApp\TAsk1\obj\Debug\net6.0\ref\TAsk1.dll

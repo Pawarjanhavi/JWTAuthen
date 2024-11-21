@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\source\\repos\\JWTAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA89196D-F050-4EEA-829D-DE672E3882C1}|JWTAuth\\JWTAuth.csproj|c:\\users\\rog\\source\\repos\\jwtauth\\jwtauth\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA89196D-F050-4EEA-829D-DE672E3882C1}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 56,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\JWTAuth\\JWTAuth\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JWTAuth\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\JWTAuth\\JWTAuth\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JWTAuth\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:00:09.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

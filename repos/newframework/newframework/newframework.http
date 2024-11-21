@@ -1,0 +1,6 @@
+@newframework_HostAddress = http://localhost:5064
+
+GET {{newframework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\bin\Debug\net6.0\Exceptionlib.deps.json
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\bin\Debug\net6.0\Exceptionlib.dll
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\bin\Debug\net6.0\Exceptionlib.pdb
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\obj\Debug\net6.0\Exceptionlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\obj\Debug\net6.0\Exceptionlib.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\obj\Debug\net6.0\Exceptionlib.AssemblyInfo.cs
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\obj\Debug\net6.0\Exceptionlib.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\obj\Debug\net6.0\Exceptionlib.dll
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\obj\Debug\net6.0\refint\Exceptionlib.dll
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\obj\Debug\net6.0\Exceptionlib.pdb
+C:\Users\ROG\source\repos\CourierManagmentApp\Exception\obj\Debug\net6.0\ref\Exceptionlib.dll
