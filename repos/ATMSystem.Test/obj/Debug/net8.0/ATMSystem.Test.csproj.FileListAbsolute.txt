@@ -1,0 +1,8 @@
+C:\Users\ROG\source\repos\ATMSystem.Test\bin\Debug\net8.0\.msCoverageSourceRootsMapping_ATMSystem.Test
+C:\Users\ROG\source\repos\ATMSystem.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_ATMSystem.Test
+C:\Users\ROG\source\repos\ATMSystem.Test\obj\Debug\net8.0\ATMSystem.Test.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\ATMSystem.Test\obj\Debug\net8.0\ATMSystem.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\ATMSystem.Test\obj\Debug\net8.0\ATMSystem.Test.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ATMSystem.Test\obj\Debug\net8.0\ATMSystem.Test.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ATMSystem.Test\obj\Debug\net8.0\ATMSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ATMSystem.Test\obj\Debug\net8.0\ATMSystem.Test.sourcelink.json

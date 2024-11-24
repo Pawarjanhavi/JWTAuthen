@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DB8463-6E8A-48FF-AAFC-5E887CAA4E21}|MoqDemo.csproj|c:\\users\\rog\\source\\repos\\moqdemo\\atmcashwithdrawal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DB8463-6E8A-48FF-AAFC-5E887CAA4E21}|MoqDemo.csproj|solutionrelative:atmcashwithdrawal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DB8463-6E8A-48FF-AAFC-5E887CAA4E21}|MoqDemo.csproj|c:\\users\\rog\\source\\repos\\moqdemo\\ihsmmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DB8463-6E8A-48FF-AAFC-5E887CAA4E21}|MoqDemo.csproj|solutionrelative:ihsmmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DB8463-6E8A-48FF-AAFC-5E887CAA4E21}|MoqDemo.csproj|c:\\users\\rog\\source\\repos\\moqdemo\\ihostbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DB8463-6E8A-48FF-AAFC-5E887CAA4E21}|MoqDemo.csproj|solutionrelative:ihostbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D8079F-F1D3-4E45-BE1A-6B8C24F7BF61}|..\\TestProject1\\TestProject1.csproj|c:\\users\\rog\\source\\repos\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DB8463-6E8A-48FF-AAFC-5E887CAA4E21}|MoqDemo.csproj|c:\\users\\rog\\source\\repos\\moqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DB8463-6E8A-48FF-AAFC-5E887CAA4E21}|MoqDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 165,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:27:16.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHostBank.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\IHostBank.cs",
+              "RelativeDocumentMoniker": "IHostBank.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\IHostBank.cs",
+              "RelativeToolTip": "IHostBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:57:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHSMModule.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\IHSMModule.cs",
+              "RelativeDocumentMoniker": "IHSMModule.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\IHSMModule.cs",
+              "RelativeToolTip": "IHSMModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:56:44.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATMCashWithDrawal.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\ATMCashWithDrawal.cs",
+              "RelativeDocumentMoniker": "ATMCashWithDrawal.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\ATMCashWithDrawal.cs",
+              "RelativeToolTip": "ATMCashWithDrawal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:39:10.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\source\\repos\\MoqDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:34:12.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
