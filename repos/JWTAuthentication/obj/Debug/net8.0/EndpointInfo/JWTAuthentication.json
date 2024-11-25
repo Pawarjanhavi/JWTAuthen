@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "JWTAuthentication",
-    "version": "1.0"
+    "title": "MyAPI",
+    "version": "v1"
   },
   "paths": {
     "/api/Auth/Login": {
@@ -236,30 +236,30 @@
       },
       "User": {
         "required": [
-          "email",
-          "password",
-          "roleType",
-          "userName"
+          "Email",
+          "Password",
+          "RoleType",
+          "UserName"
         ],
         "type": "object",
         "properties": {
-          "userId": {
+          "UserId": {
             "type": "integer",
             "format": "int32"
           },
-          "userName": {
+          "UserName": {
             "minLength": 1,
             "type": "string"
           },
-          "email": {
+          "Email": {
             "minLength": 1,
             "type": "string"
           },
-          "password": {
+          "Password": {
             "minLength": 1,
             "type": "string"
           },
-          "roleType": {
+          "RoleType": {
             "type": "array",
             "items": {
               "type": "string"
@@ -271,26 +271,39 @@
       "WeatherForecast": {
         "type": "object",
         "properties": {
-          "date": {
+          "Date": {
             "type": "string",
             "format": "date"
           },
-          "temperatureC": {
+          "TemperatureC": {
             "type": "integer",
             "format": "int32"
           },
-          "temperatureF": {
+          "TemperatureF": {
             "type": "integer",
             "format": "int32",
             "readOnly": true
           },
-          "summary": {
+          "Summary": {
             "type": "string",
             "nullable": true
           }
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Please enter your token in the format: Bearer {token}",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

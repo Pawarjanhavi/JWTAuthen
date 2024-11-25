@@ -72,7 +72,7 @@ namespace JWTAuthentication.Controllers
                 await _tokenService.SaveRefreshToken(user.Email, refreshToken);
 
                 // Return the generated access and refresh tokens
-                // return Ok(new { AccessToken = accessToken, RefreshToken = refreshToken });
+                 return Ok(new { AccessToken = accessToken, RefreshToken = refreshToken });
                 return Ok(new { Message = "Login successful. Tokens are generated and stored securely." });
             }
             catch (Exception ex)
